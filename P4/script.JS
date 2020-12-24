@@ -17,8 +17,9 @@ for (var a=2;a<=prime;a++)
     break;
 }
 }
+}
 if (f==0);{
     console.log(num, "is a Prime Number");
     alert("Your Number is Prime");
 }
-}
+
